@@ -1,0 +1,37 @@
+MIDlet-Name: Google Maps
+MIDlet-Version: 2.3.2
+MIDlet-Vendor: Google
+MIDlet-1: Google Maps, , com.google.googlenav.GoogleNav
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Jar-URL: https://raw.githubusercontent.com/woodie/gmaps/master/dist/gMapsUnsigned.jar
+MIDlet-Jar-Size: 424906
+MIDlet-Install-Notify: http://m.google.com/maps/install?dc=gorganic&signed=true&deviceId=Motorola.i850&ver=2.3.2
+MIDlet-Icon: icon72x72.png
+MIDlet-Certificate-1-1: MIIDNDCCAhygAwIBAgICRBgwDQYJKoZIhvcNAQEFBQAwVjELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIFVuaWZpZWQgVGVzdGluZyBJbml0aWF0aXZlIChVVEkpMRwwGgYDVQQDExNHZW9UcnVzdCBDQSBmb3IgVVRJMB4XDTA4MTAyNDE3Mzg0N1oXDTE4MTAyMjE3Mzg0N1oweTELMAkGA1UEBhMCVVMxDDAKBgNVBAgTA04vQTEMMAoGA1UEBxMDTi9BMSYwJAYJKoZIhvcNAQkBFhduc3RsLXRlc3RpbmdAZ29vZ2xlLmNvbTEVMBMGA1UEAxMMR29vZ2xlTW9iaWxlMQ8wDQYDVQQKEwZHb29nbGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAINhkMtK1LG2WNvMmKOJb+trfiT5ePjHX6C7eczZCaBudWNmnK4LQ1F1V7ovLHGRJndj5nFILvdcfu2YBt60nkZvH6R5dh/XC6+sUk5giAL3zk0lFOM/Lwt+uiYWuXYNzw9lFZ+2W/X8iqa3ytMV0aaUzmawUqPY/6DbWHUnwHQ3AgMBAAGjbTBrMA4GA1UdDwEB/wQEAwIGwDA4BgNVHR8EMTAvMC2gK6AphidodHRwOi8vY3JsLmdlb3RydXN0LmNvbS9jcmxzL3N1bmNhMS5jcmwwHwYDVR0jBBgwFoAU8VzADWpxN6aZhDU4UuJTc2dx1jAwDQYJKoZIhvcNAQEFBQADggEBAFLOWaoaZ0w28uxREu6iQ/QBR2JUfCVB3GVOGGzaKTBZPyXWU8kNma8DOSuAGxrBKkYb4IsoJQknHNJh4zWT6jMHyOIFCHk0DfyLtvtRo5fb2OCbuWHALjKgTunSBavDS1Gww1Bor/0HtjF39KPRahzT02DV7EGs4Wpv2llTTNSjzBIc4jZGXzmyQVfnoRPApa4FICQGW4BuJLjb7PeMv9ZeNOj+zRMSA4VwFGEJQlcYMGJSxANjJjQa1AmS42R8Zp9CFUG8BSD5G0k0kxc1d3VK/TLP+T/Qr18nVrjIuIDr3qyY5G3yr3/9zt/yESxf5PV8OOb3s8e98LZfMBRvcRk=
+AltZoomInKey: 0
+AltZoomOutKey: 0
+BackKey: -9991
+ClearKey: -9997
+DefaultLatLon: 37779160,-122420070
+DefaultZoom: 9
+DistributionChannel: gorganic
+DownloadLocale: en
+GpsEnabled: true
+HelpTags: TRAFFIC
+LeftSoftKey: -9992
+MaxCacheDataSize: -1
+MaxFlashRecordStores: 200
+MaxFlashSize: 200000
+MenuKey: -9995
+ReverseSoftkeys: false
+RightSoftKey: -9993
+SelectKey: -9994
+ServerAddress: http://www.google.com/glm/mmap
+TalkKey: -9996
+TrafficRenderLevel: -1
+UseAnimation: true
+UseNativeCommands: true
+UseNativeMenus: false
+UseNativeTextButtons: true
