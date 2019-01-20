@@ -5,7 +5,7 @@ MIDlet-1: Google Maps, , com.google.googlenav.GoogleNav
 MIDlet-Permissions: javax.microedition.io.Connector.http
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.0
-MIDlet-Jar-URL: https://raw.githubusercontent.com/woodie/gmaps/master/dist/gMapsUnsigned.jar
+MIDlet-Jar-URL: gMapsUnsigned.jar
 MIDlet-Jar-Size: 424906
 MIDlet-Install-Notify: http://m.google.com/maps/install?dc=gorganic&signed=true&deviceId=Motorola.i850&ver=2.3.2
 MIDlet-Icon: icon72x72.png

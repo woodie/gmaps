@@ -1,7 +1,6 @@
 #!/bin/bash
 
 SOURCE=http://boostapps.com/files
-DIST_BASE=https://raw.githubusercontent.com/woodie/gmaps/master/dist
 
 mkdir -p downloads
 cd downloads
@@ -28,7 +27,7 @@ cd ..
 
 while read line; do
   if [[ "$line" =~ "MIDlet-Jar-URL" ]]; then
-    echo MIDlet-Jar-URL: $DIST_BASE/gMapsUnsigned.jar
+    echo MIDlet-Jar-URL: gMapsUnsigned.jar
   elif [[ "$line" =~ "MIDlet-Icon" ]]; then
     echo MIDlet-Icon: icon72x72.png
   elif [[ ! "$line" =~ "RSA-SHA1" ]]; then
